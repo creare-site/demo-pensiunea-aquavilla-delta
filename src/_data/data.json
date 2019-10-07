@@ -1,0 +1,27 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "contact@aquavilla.ro",
+    "phone"          : "0721494093",
+    "address"        : "Bratul Sulina – Mila 26 – Sat Vulturu – Comuna Maliuc.",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Pensiunea AquaVilla Delta",
+
+    "seo_title"      : "Pensiunea AquaVilla - Cazare Delta Dunarii | WebsiteMarket",
+    "seo_desc"       : "O locatie excelenta de cazare in Delta Dunarii. Cazare de lux Delta Dunarii.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://github.com/creare-site/demo-pensiunea-aquavilla-delta", 
+    "github"         : "https://github.com/creare-site/demo-pensiunea-aquavilla-delta",
+    "github_group"   : "https://github.com/creare-site",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/aquavilla.delta/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
