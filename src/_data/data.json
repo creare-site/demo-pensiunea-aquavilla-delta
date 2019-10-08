@@ -12,12 +12,13 @@
 
     "service"        : "https://websitemarket.ro", 
 
-    "product"        : "https://github.com/creare-site/demo-pensiunea-aquavilla-delta", 
+    "product"        : "https://websitemarket.ro/creare-site/pensiuni/pensiunea-aquavilla-delta/", 
     "github"         : "https://github.com/creare-site/demo-pensiunea-aquavilla-delta",
     "github_group"   : "https://github.com/creare-site",
 
     "blog"           : "https://blog.websitemarket.ro/",
     "facebook"       : "https://www.facebook.com/aquavilla.delta/",
+    "youtube"        : "https://www.youtube.com/watch?v=gmuSEHoLmzc",
     "twitter"        : "https://twitter.com/websitemarketro/",
     "instagram"      : "https://websitemarket.ro",
     "support"        : "https://websitemarket.ro",
