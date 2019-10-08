@@ -1,4 +1,4 @@
-﻿# [Pensiunea AquaVilla Delta](https://pensiunea-aquavilla-delta.websitemarket.ro/) - Site Prezentare
+﻿# [Pensiunea AquaVilla Delta](https://websitemarket.ro/creare-site/pensiuni/pensiunea-aquavilla-delta/) - Site Prezentare
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Pensiunea AquaVilla Delta](https://pensiunea-aquavilla-delta.websitemarket.ro/) un produs **WebsiteMarket**
+[Pensiunea AquaVilla Delta](https://websitemarket.ro/creare-site/pensiuni/pensiunea-aquavilla-delta/) un produs **WebsiteMarket**
